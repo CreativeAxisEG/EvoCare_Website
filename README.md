@@ -57,8 +57,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # GUI OUTPUT
 
-
-![c2merge](https://user-images.githubusercontent.com/120844290/212483372-8ea94098-3956-4dd7-83c6-b798c251e6c9.png)
+![c1merge](https://user-images.githubusercontent.com/120844290/212483459-38109622-7de1-4dfa-8b25-ef163b668e76.png)
 
 ![c2merge](https://user-images.githubusercontent.com/120844290/212483382-b517b17b-395b-4f08-8624-5b167d8bd110.png)
 
