@@ -1,0 +1,17 @@
+.carousel .thumb img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.carousel .slide img {
+    max-height: 500px;
+      /* change this as needed */
+      min-height: 500px;
+    min-width: 100%;
+    max-width: none;
+}
+.card-img-top {
+    height: 19rem;
+    object-fit: cover;
+}
+
